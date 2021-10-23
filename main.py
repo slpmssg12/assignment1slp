@@ -12,3 +12,6 @@ plt.xlabel("angle")
 plt.ylabel("sin & cos value")
 plt.legend()
 plt.show()
+
+#this comment added and next print command added for aws test
+print("a new line")
