@@ -13,5 +13,4 @@ plt.ylabel("sin & cos value")
 plt.legend()
 plt.show()
 
-#this comment added and next print command added for aws test
-print("a new line")
+#this comment added in aws and pushed to git hub - first comment and print command removed in aws
